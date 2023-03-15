@@ -1,6 +1,6 @@
 # [Portafolio Web ](https://jhoan219.github.io/portafollio-dev/) | 
 
-[![Portafolio Web ELGS](https://i.postimg.cc/Ls680V50/portafolio-web-elgs.png)](https://jhoan219.github.io/portafollio-dev/)
+[![Portafolio Web ELGS](https://i.postimg.cc/tTW6PTpq/fondo-portafolio.png)
 
 Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.
 
