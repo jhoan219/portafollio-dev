@@ -1,13 +1,13 @@
-# [Portafolio Web ELGS](https://elliotxleo.github.io/portafolio-web-elgs/) | [<img src="https://i.postimg.cc/J7BLFtdc/linkedin.png" alt="LinkedIn" class="footer-nav__link-image" height="20px" />](https://www.linkedin.com/in/elliotgaramendi/)  | [<img src="https://i.postimg.cc/sfJtqS4W/instagram.png" alt="Instagram" class="footer-nav__link-image" height="20px" />](https://www.instagram.com/elliotgaramendi/)  | [<img src="https://i.postimg.cc/7YHyZXZX/facebook.png" alt="Facebook" class="footer-nav__link-image" height="20px" />](https://www.facebook.com/elliotgaramendi)  | [<img src="https://i.postimg.cc/5NBMxTJX/github.png" alt="GitHub" class="footer-nav__link-image" height="20px" />](https://github.com/ElliotXLeo)  | [<img src="https://i.postimg.cc/dtPYcvbM/youtube.png" alt="YouTube" class="footer-nav__link-image" height="20px" />](https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA)  | [<img src="https://i.postimg.cc/65TVxg9t/world-globe.png" alt="Página Personal" class="footer-nav__link-image" height="20px" />](https://nextjs-react-portafolio-fc.vercel.app)
+# [Portafolio Web ](https://jhoan219.github.io/portafollio-dev/) | 
 
-[![Portafolio Web ELGS](https://i.postimg.cc/Ls680V50/portafolio-web-elgs.png)](https://elliotxleo.github.io/portafolio-web-elgs/)
+[![Portafolio Web ELGS](https://i.postimg.cc/Ls680V50/portafolio-web-elgs.png)](https://jhoan219.github.io/portafollio-dev/)
 
-Desarrollador Web Frontend con la biblioteca React. Docente de especialización en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.
+Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.
 
 ## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/ElliotXLeo/portafolio-web-elgs
+  - git clone https://github.com/jhoan219/portafollio-dev.git
   - cd portafolio-web-elgs
   - Levantar la web en un servidor y disfrutar
 
@@ -58,9 +58,7 @@ Desarrollador Web Frontend con la biblioteca React. Docente de especialización 
   </table>
 
 ## 🤗 Redes Sociales 🤗
-- 🐭 LinkedIn: https://www.linkedin.com/in/elliotgaramendi/ 🐭
-- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
-- 🐭 Facebook: https://www.facebook.com/elliotgaramendi/ 🐭
-- 🐭 GitHub: https://github.com/ElliotXLeo/ 🐭
-- 🐭 YouTube: https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA/ 🐭
-- 🐭 Web Personal: https://elliotxleo.github.io/portafolio-web-elgs/ 🐭
+- 🐭 LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/🐭
+- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭 
+- 🐭 GitHub: https://github.com/jhoan219/ 🐭 
+- 🐭 Web Personal: https://jhoan219.github.io/portafollio-dev/🐭
