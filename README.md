@@ -1,6 +1,6 @@
 # [Portafolio Web ](https://jhoan219.github.io/portafollio-dev/) | 
 
-[![Portafolio Web ELGS](https://i.postimg.cc/tTW6PTpq/fondo-portafolio.png)
+[Portafolio Web ](https://i.postimg.cc/tTW6PTpq/fondo-portafolio.png)
 
 Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.
 
@@ -8,7 +8,6 @@ Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web F
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
   - git clone https://github.com/jhoan219/portafollio-dev.git
-  - cd portafolio-web-elgs
   - Levantar la web en un servidor y disfrutar
 
 ## 👨‍💻 Tecnologías Usadas 👨‍💻
@@ -58,7 +57,13 @@ Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web F
   </table>
 
 ## 🤗 Redes Sociales 🤗
-- 🐭 LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/🐭
-- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭 
-- 🐭 GitHub: https://github.com/jhoan219/ 🐭 
-- 🐭 Web Personal: https://jhoan219.github.io/portafollio-dev/🐭
+
+LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/
+
+GitHub: https://github.com/jhoan219
+
+WhatsApp: https://api.whatsapp.com/send?phone=51963428337
+
+Personal Web: https://jhoan219.github.io/portafollio-dev/
+
+Correo: labrajhoan219@gmail.com
