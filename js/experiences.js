@@ -12,6 +12,9 @@ const experiences = ({ experiences }) => {
           <ul class="experiences__activities">
             <li class="experiences__activity">${activities[0]}</li>
             <li class="experiences__activity">${activities[1]}</li>
+            <li class="experiences__activity">${activities[2]}</li>
+            <li class="experiences__activity">${activities[3]}</li>
+            <li class="experiences__activity">${activities[4]}</li>
           </ul>
         </section>
       `;
